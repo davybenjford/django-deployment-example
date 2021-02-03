@@ -26,7 +26,7 @@ SECRET_KEY = 'v-l)+%^t0u@(knk5v7a5&2xb&-()4-5w@p6m50%!x16!w=%dg&'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://dford123.pythonanywhere.com']
 
 
 # Application definition
